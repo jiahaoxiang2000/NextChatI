@@ -1,6 +1,5 @@
 {
   "name": "nextchat",
-  "private": false,
   "license": "mit",
   "scripts": {
     "mask": "npx tsx app/masks/build.ts",
